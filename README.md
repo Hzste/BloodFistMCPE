@@ -3,7 +3,7 @@
 <summary>👀 I’m interested in Programming</summary>
 <summary>🌱 Learning PHP, Python, Java, HTML, C#</summary>
 <summary>📖 I’m currently studying IT & Computing</summary>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]
 
 <br />
 <br />
