@@ -7,7 +7,6 @@
 
 <br />
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BloodFistMCPE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 <img align="left" alt="Blood's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BloodFistMCPE&show_icons=true&hide_border=false&title_color=FD0000&icon_color=16AEE3&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
 <img align="left" alt="Blood's GitHub Stats" src="https://github-readme-stats-lake-ten.vercel.app/api/top-langs/?username=BloodFistMCPE&theme=dark&show_icons=true&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&langs_count=3"/>
