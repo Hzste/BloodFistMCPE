@@ -1,5 +1,4 @@
 # Hi there, I'm Blood 👋
-Also known as BloodFistMCPE
 
 <summary>👀 I’m interested in Programming</summary>
 <summary>🌱 Learning PHP, Python, Java, HTML, C#</summary>
