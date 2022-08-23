@@ -1,4 +1,4 @@
-# Hi there, I'm Blood 👋
+# Hi there 👋
 
 <summary>👀 I’m interested in Programming</summary>
 <summary>🌱 Learning PHP, Python, Java, HTML, C#</summary>
