@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <summary>👀 I’m interested in Programming</summary>
-<summary>🌱 Learning PHP, Python, Java, HTML, C#</summary>
+<summary>🌱 Learning PHP, Python, Java, Visual Basic, C#</summary>
 <summary>📖 I’m currently studying IT & Computing</summary>
 <br>
 </br>
