@@ -1,5 +1,5 @@
-# Hi there 👋
-
+# Hello 👋
+Welcome to my github page :)
 <br>
 </br>
 
